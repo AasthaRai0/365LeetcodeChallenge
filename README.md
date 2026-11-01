@@ -9,3 +9,15 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 - **Automation:** Solutions are automatically synced using LeetHub.
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+<!---LeetCode Topics End-->
