@@ -19,6 +19,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -53,6 +54,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
@@ -83,4 +85,12 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1267-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
