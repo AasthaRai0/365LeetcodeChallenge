@@ -133,4 +133,8 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
