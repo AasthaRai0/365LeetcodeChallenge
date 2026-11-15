@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numOfSubarrays(vector<int>& arr) {
-        int res = 0; 
+        int ans = 0; 
         int odd = 0; 
         int even = 0;
         for (auto x: arr) {
@@ -9,8 +9,8 @@ public:
             if (x % 2){
                 swap(odd, even);
             }
-            res = (res + odd) % 1000000007;
+            ans = (ans + odd) % 1000000007;
         }
-        return res;
+        return ans;
     }
 };
