@@ -100,6 +100,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
@@ -137,4 +138,8 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0175-combine-two-tables) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
