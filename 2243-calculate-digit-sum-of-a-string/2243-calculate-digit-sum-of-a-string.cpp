@@ -1,21 +1,21 @@
 class Solution {
 public:
-    string digitSum(string s, int k) {
-        while(s.size()>k){
-            string result="";
-            int sum=0;
-            for(int i=0;i<s.size();i++){
-                sum+=s[i]-'0';
-                if((i+1)%k==0){
-                    result+=(to_string(sum));
-                    sum=0;
+    string digitSum(string s, int m) {
+        
+        while(s.length()>m){
+            int k= s.length();
+            string temp="";
+            for(int i=0;i<s.length();i+=m){
+                int sum = 0;
+                for (int j = i; j < i + m && j < s.length(); ++j) {
+                    sum += s[j] - '0';
                 }
+                temp += to_string(sum);
+
             }
-            if(s.size()%k!=0){
-                result+=(to_string(sum));
-            }
-            s=result;
+            s=temp;
         }
         return s;
+        
     }
 };
