@@ -53,6 +53,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
@@ -72,6 +73,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,4 +144,5 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
