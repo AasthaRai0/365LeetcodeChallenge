@@ -3,6 +3,7 @@ public:
     int minimumChanges(string s, int k) {
         int n = s.size();
         const int INF = 1e9;
+        
         vector<vector<int>> divs(n + 1);
         for (int d = 1; d <= n; d++)
             for (int len = 2 * d; len <= n; len += d) divs[len].push_back(d);
@@ -24,7 +25,6 @@ public:
                 cost[i][j] = best;
             }
         }
-
         vector<vector<int>> dp(n + 1, vector<int>(k + 1, INF));
         dp[0][0] = 0;
         for (int c = 1; c <= k; c++) {
