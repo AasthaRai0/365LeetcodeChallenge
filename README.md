@@ -145,4 +145,5 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 <!---LeetCode Topics End-->
