@@ -15,6 +15,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1267-count-servers-that-communicate) |
@@ -43,6 +44,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -51,6 +53,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [2747-count-zero-request-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
