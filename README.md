@@ -27,6 +27,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | [2747-count-zero-request-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -55,6 +56,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | ------- |
 | [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [2747-count-zero-request-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
 |  |
@@ -90,6 +92,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -155,4 +158,9 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
