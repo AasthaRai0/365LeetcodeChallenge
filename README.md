@@ -46,6 +46,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -55,6 +56,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [2747-count-zero-request-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -155,6 +157,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
