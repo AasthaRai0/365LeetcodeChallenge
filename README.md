@@ -15,6 +15,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -55,6 +56,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [2747-count-zero-request-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2747-count-zero-request-servers) |
