@@ -20,6 +20,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -39,6 +40,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -150,6 +152,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 ## Database
@@ -169,4 +172,12 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
