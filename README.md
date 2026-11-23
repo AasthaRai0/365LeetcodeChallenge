@@ -17,6 +17,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | ------- |
 | [0001-two-sum](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -62,6 +63,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | ------- |
 | [0001-two-sum](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [2747-count-zero-request-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2747-count-zero-request-servers) |
@@ -109,6 +111,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [1267-count-servers-that-communicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
