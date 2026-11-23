@@ -16,6 +16,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -48,6 +49,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -59,6 +61,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [2747-count-zero-request-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2747-count-zero-request-servers) |
@@ -162,6 +165,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
