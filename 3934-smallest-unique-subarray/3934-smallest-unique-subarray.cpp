@@ -1,63 +1,66 @@
-#define ll long long int
 class Solution {
-    ll mod = 1e9+7;
-    ll hash(vector<int> &v,int i,int j,int base){
-        ll p = 1;
-        ll ret = 0;
-        for(int x=i;x<=j;x++){
-            ret = (ret + (v[x]*p)%mod)%mod;
-            p = (p*base)%mod;
-        }
-        return ret;
-    }
-    ll binpow(ll a,ll b){
-        ll ret = 1;
-        a %= mod;
-        while(b>0){
-            if(b&1){
-                ret = ret*a%mod;
+public:
+    private:
+    long long modPow(long long base, int exp, long long modulus) {
+        long long res = 1;
+
+        while (exp > 0) {
+            if (exp & 1) {
+                res = res * base % modulus;
             }
-            a = a*a%mod;
-            b/=2;
-        }
-        return ret;
-    }
-    bool check(vector<int> &v,ll m){
-        unordered_map<ll,ll> mp;
-        ll base = 13;
-        ll x = hash(v,0,m-1,base);
-        ll p = binpow(base,m-1)%mod;
-        ll inv = binpow(base,mod-2)%mod;
-
-        mp[x]++;
-
-        for(int i=0,j=m;j<v.size();i++,j++){
-            x = x - v[i];
-            x = (x*inv)%mod;
-            x = (x + (v[j]*p)%mod)%mod;
-            mp[x]++;
+            base = base * base % modulus;
+            exp >>= 1;
         }
 
-        for(auto x:mp){
-            if(x.second==1) return false;
-        }
-        return true;
+        return res;
     }
 
 public:
-    int smallestUniqueSubarray(vector<int>& v) {
-        int n = v.size();
-        int s=1,e=n;
-        int ret = n;
-        while(s<e){
-            int m = s+(e-s)/2;
-            if(check(v,m)){
-                s = m+1;
-            }else{
-                e = m;
-                ret = min(ret,m);
+    int smallestUniqueSubarray(vector<int>& nums) {
+        int low = 1;
+        int high = nums.size() + 1;
+        int ans = -1;
+
+        const long long base = 100003;
+        const long long modulus = 1000000007;
+
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+
+            unordered_set<long long> unique;
+            unordered_set<long long> non_unique;
+
+            long long subarray = 0;
+            long long pow1 = modPow(base, mid - 1, modulus);
+
+            for (int i = 0; i + mid <= nums.size(); i++) {
+                if (i == 0) {
+                    for (int j = i; j < i + mid; j++) {
+                        subarray = (subarray * base + nums[j]) % modulus;
+                    }
+                } else {
+                    subarray = (subarray - nums[i - 1] * pow1 % modulus + modulus) % modulus;
+                    subarray = (subarray * base + nums[i + mid - 1]) % modulus;
+                }
+
+                if (non_unique.count(subarray)) {
+                    continue;
+                } else if (unique.count(subarray)) {
+                    unique.erase(subarray);
+                    non_unique.insert(subarray);
+                } else {
+                    unique.insert(subarray);
+                }
+            }
+
+            if (!unique.empty()) {
+                high = mid;
+                ans = mid;
+            } else {
+                low = mid + 1;
             }
         }
-        return ret;
+
+        return ans;
     }
 };
