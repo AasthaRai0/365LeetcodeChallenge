@@ -40,6 +40,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3934-smallest-unique-subarray](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +149,7 @@ Welcome to my **365 LeetCode Challenge** repository! This repo serves as a syste
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/AasthaRai0/365LeetcodeChallenge/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
